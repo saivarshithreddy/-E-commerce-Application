@@ -102,13 +102,3 @@ npm start
 2. Create a feature branch (`git checkout -b feature/your-feature`)
 3. Commit and push
 4. Open a Pull Request
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
-
----
-
-## 🙋‍♂️ Contact
-For questions or support, open an issue or contact the maintainer.
